@@ -1,0 +1,79 @@
+h2{
+    color: beige;
+}
+body{
+    background-color: cadetblue;
+}
+
+.Restura-image{
+    width: 1200px;
+    height: 700px;
+}
+
+.topnav{
+    background-color: #333333;
+    overflow: hidden;
+}
+
+.topnav a{
+    float:left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+.topnav a:hover{
+    background-color: #dddddd;
+    color:black;
+}
+
+.topnav a.active{
+    background-color: #4e3227;
+    color: white;
+}
+
+/* About Us */
+.aboutus-image{
+    width: 1200px;
+    height: 700px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Menu */
+.menu_images{
+    width: 300px;
+    height: 200px;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+td{
+    padding-left: 100px;
+}
+
+.beaverages_images{
+    width: 300px;
+    height: 200px;
+}
+
+.maindish_images{
+    width: 300px;
+    height: 200px;
+}
+
+.dessert_images{
+    width: 300px;
+    height: 200px;
+}
